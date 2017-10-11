@@ -1,6 +1,6 @@
 # Pattern Recognition
 
-# Matlab
+@Tool: Matlab
 
-# Projects
-  1. Spam email detection
+@Projects:
+1. Spam email detection
